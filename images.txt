@@ -1,2 +1,2 @@
-node:14.16
-nginx:latest
+mysql:5.7.44
+redis:latest
