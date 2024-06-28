@@ -1,1 +1,2 @@
-nginx:14.16
+node:14.16
+nginx:latest
