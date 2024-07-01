@@ -1,3 +1,1 @@
-eclipse-temurin:17-jdk
-eclipse-temurin:8-jdk
-eclipse-temurin:22-jdk
+rustdesk/rustdesk-server:latest
