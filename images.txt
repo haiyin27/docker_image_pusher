@@ -1,1 +1,1 @@
-linuxserver/jackett
+docker pull openjdk:21
