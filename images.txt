@@ -1,1 +1,1 @@
-minio/minio:latest
+linuxserver/jackett:0.22.1556
