@@ -1,1 +1,1 @@
-linuxserver/jackett:0.22.1556
+node:16.15.1
