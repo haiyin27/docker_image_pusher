@@ -1,1 +1,1 @@
-node:16.15.1
+linuxserver/rustdesk:1.5.3
